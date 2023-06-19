@@ -1,7 +1,7 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "<i>STEC</i> optimal temperature of growth is 36-40°C but it can survive between 6°C to 45.5°C.",
+    "content": "<i>STEC</i> optimal temperature of growth is between 36 and 40°C but it can survive between 6°C to 45.5°C.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
@@ -11,7 +11,7 @@
   },
   "ph": {
     "title": "pH",
-    "content": "<i>STEC</i>  can survive in a wide range of pH conditions between 4.4 to 9 and grow optimally at pH 6-7.",
+    "content": "<i>STEC</i>  can survive in a wide range of pH conditions between 4.4 to 9 and grow optimally at pH from 6 to 7.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
@@ -21,7 +21,7 @@
   },
   "salinity": {
     "title": "Salinity",
-    "content": "The optimal salinity for <i>STEC</i> is 0% but it can tolerate untill 8.5%",
+    "content": "The optimal salinity for <i>STEC</i> is 0% but it can tolerate until 8.5%.",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 
