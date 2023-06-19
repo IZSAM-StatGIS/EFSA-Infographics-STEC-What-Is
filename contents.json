@@ -16,7 +16,7 @@
   },
   "humidity": {
     "title": "Water",
-    "content": "<i>STEC</i> can grow with a water activity (a<sub>w</sub>) > 0.995.",
+    "content": "<i>STEC</i> can grow with a water activity (a<sub>w</sub>) above 0.995.",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
